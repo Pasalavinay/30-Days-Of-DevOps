@@ -59,7 +59,13 @@ This repository provides a list of important Linux commands that are frequently 
 - Usage:
   - `ls`: Lists files and directories in the current directory.
   - `ls -l`: Lists files and directories in long format.
+  -  ls -lr : list in reverse alphbet order
+  -  ls -lt : latest files
+  -  ls -ltr : starts from old files
   - `ls -a`: Lists all files and directories, including hidden ones.
+  - `ls -la`: Lists all files and directories, including hidden ones.
+  -  
+  - 
 
 ### 2. `cd`
 
