@@ -63,10 +63,9 @@ This repository provides a list of important Linux commands that are frequently 
   -  ls -lt : latest files
   -  ls -ltr : starts from old files
   - `ls -a`: Lists all files and directories, including hidden ones.
-  - `ls -la`: Lists all files and directories, including hidden ones.
-  -  
-  - 
-
+  - `ls -la`: Lists all files and directories, including hidden ones in long list format.
+  
+  
 ### 2. `cd`
 
 - Description: Changes the current directory.
